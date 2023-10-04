@@ -4,7 +4,7 @@ Meu nome é Ketlhyn Silva
 
 Estou estudando em Alura
 
--Estou me desenvolvendo na libnguagem Javascript🌻
+-Estou me desenvolvendo na linguagem Javascript🌻
 
 Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
